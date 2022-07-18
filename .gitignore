@@ -28,3 +28,6 @@
 
 # Test
 test.*
+
+# Others
+.vscode
